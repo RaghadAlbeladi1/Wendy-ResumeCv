@@ -1,16 +1,24 @@
 <img width="100%" src="https://i.imgur.com/CYx9Es5.png" width="900" />
 
-# Wendy Bite
+# Wendy Bite – Personal Resume  
 
-Your client, Wendy, has created "pixel-perfect" images representing how she
-wants her website to look, and provided the text. Now she needs an engineer to turn her designs into reality!
+> A minimalist, elegant, and fully responsive **Resume & CV webpage** created for *Wendy Bite* using **HTML** and **CSS**.  
+> Designed to showcase professional experience, education, and personal background in a clean, modern layout.  
 
-## Instructions
-Using the starter code found in `./starter_code` and the provided images / text in `./mocks` to create two separate web pages with html and css. The first page will be in `index.html` and will be the "landing page" which is Wendy Bite's "About Me" page. The second page is her resume. Recreate the images as web pages to the best of your ability.
+---
 
+## Overview  
+This project represents a **personal online CV** built from scratch to demonstrate mastery of semantic HTML and clean CSS styling.  
+It combines simplicity with a polished look, making it easy to adapt as a real digital résumé template.  
 
-## NOTES
-- Use index.html as a starting point for both pages - so you will want to copy the index.html and then retitle it as `resume.html`.
-- you can create one `CSS` file for both, or one for each, completely up to you. Link them in your html accordingly.
-- look for the filler information in `./mocks`
-- ASK QUESTIONS AS NEEDED!
+---
+
+## Tech Stack  
+| Language | Purpose |
+|-----------|----------|
+| 🟣 **HTML** | Structure & content |
+| 🟢 **CSS** | Styling, layout, and responsiveness |
+
+---
+ 
+This project is part of the **Saudi Digital Acdemey-General Assembly Front-End Development Training**, focusing on developing practical web design skills and attention to UI/UX details.  
